@@ -28,6 +28,5 @@
    1. yum -y update
    1. yum -y install nfs-utils
    1. mount -t nfs4 -o nfsvers=4.1,rsize=1048576,wsize=1048576,hard,timeo=600,retrans=2,noresvport fs-01c96d247df506782.efs.us-east-1.amazonaws.com:/ efs20gb/
-
 ![](https://i.imgur.com/T76mu4q.png) 
 
