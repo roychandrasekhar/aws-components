@@ -19,6 +19,6 @@ On every refresh of the Classic load balancer DNS url will load all instance in 
    ![](https://i.imgur.com/TV8V1W8.png)
 5. ![](https://i.imgur.com/YHF8Bkg.png)
 6. Copy the new Application load balancer DNS url and check in the browser</br>
-7. ![](https://i.imgur.com/x0JcwXG.png)
+7. </br>![](https://i.imgur.com/x0JcwXG.png)
 
 
