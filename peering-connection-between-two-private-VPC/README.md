@@ -17,10 +17,10 @@
     connection only work after
     From Adding Peering connection in MYVPC2 routable of if we want connection from MYVPC2
 
-5. Now test connection between MYVPC2 to VPCOregion1 between instances 
-   1. First connect into VPCOregon1
+5. Now test connection between MYVPC2 to VPCOregion1 between instances </br>
+   1. First connect into VPCOregon1</br>
       ```ssh -i chandra\_secret\_oregon.pem ubuntu@35.86.90.42```
-   2. Then from there try to connect into MYVPC2 *( \* of course you should pass the secret file by SCP)*
+   2. Then from there try to connect into MYVPC2 *( \* of course you should pass the secret file by SCP)*</br>
       ```ssh -i chandra\_secret.pem ubuntu@130.0.125.131```
       
     ![](https://i.imgur.com/l32Voun.png)
