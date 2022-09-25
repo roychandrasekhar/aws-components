@@ -4,3 +4,4 @@ AWS Components
 3. [Elastic Load Balancer with 3 EC2 instance](https://github.com/roychandrasekhar/aws-components/tree/main/elastic-load-balancer-with-3-ec2-instance)
 4. [Auto scaling group with Launch configuration](https://github.com/roychandrasekhar/aws-components/tree/main/auto-scaling-group-with-launch-configuration)
 5. [Host Website using Route53](https://github.com/roychandrasekhar/aws-components/tree/main/host-website-using-route53)
+6. [Create bastion host in AWS VPC](https://github.com/roychandrasekhar/aws-components/tree/main/create-bastion-host-in-AWS-VPC)
