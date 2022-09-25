@@ -2,10 +2,10 @@
 
 ![](https://i.imgur.com/rvt4v74.png)
 
-1. Create 2 VPC in North Virginia region
+1. Create 2 VPC in North Virginia region</br>
 ![](https://i.imgur.com/O1czRtl.png)
 
-2. Create 1 VPC in Oregon region
+2. Create 1 VPC in Oregon region </br>
 ![](https://i.imgur.com/LRhyOxc.png)
 
 3. Peering connection between MYVPC1 and MYVPC2
