@@ -4,10 +4,10 @@
 
 ![](Aspose.Words.a81c27dd-ecb1-476a-956e-792f8dc40fb8.001.png)
 
-1. Create VPC
+1. Create VPC</br>
 ![](https://i.imgur.com/mX9Z6oy.png)
 
-2. Create Internet gateway!
+2. Create Internet gateway</br>
 ![](https://i.imgur.com/4LR5Scz.png)
 
 3. Then attach the Internet gateway to our VPC
