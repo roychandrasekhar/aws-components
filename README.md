@@ -5,3 +5,4 @@ AWS Components
 4. [Auto scaling group with Launch configuration](https://github.com/roychandrasekhar/aws-components/tree/main/auto-scaling-group-with-launch-configuration)
 5. [Host Website using Route53](https://github.com/roychandrasekhar/aws-components/tree/main/host-website-using-route53)
 6. [Create bastion host in AWS VPC](https://github.com/roychandrasekhar/aws-components/tree/main/create-bastion-host-in-AWS-VPC)
+7. [Peering connection between two private VPC in AWS](https://github.com/roychandrasekhar/aws-components/tree/main/peering-connection-between-two-private-VPC)
